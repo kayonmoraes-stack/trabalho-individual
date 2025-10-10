@@ -1,2 +1,0 @@
-# trabalho-individual
-index.html
